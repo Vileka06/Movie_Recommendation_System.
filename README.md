@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System
+# 🎬 Movie Recommendation System.
 
 This is a movie recommendation system I built using Python and Streamlit. It gives movie suggestions based on genre and user preferences.
 
