@@ -110,7 +110,7 @@ This project helped me understand how movie recommendation systems work in real 
 I used both content-based and collaborative filtering to build a hybrid model.  
 The Streamlit app made the project interactive and user-friendly.  
 I learned how to clean data, build models, and deploy an ML app step by step.  
-Overall, it was a great learning experience during my internship.
+Overall, it was a great learning experience during my internship
 
 
 
